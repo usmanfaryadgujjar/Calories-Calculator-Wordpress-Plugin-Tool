@@ -3,9 +3,13 @@ A simple and customizable WordPress plugin that allows your visitors to calculat
 
 🔧 Features
 ✅ User-friendly interface for calculating nutritional values
+
 ✅ Filter by menu category (e.g., Drinks, Bakery, etc.)
+
 ✅ Display individual nutritional values like Calories, Sugar, Protein, and more
+
 ✅ Full nutrition calculator with all values included
+
 ✅ Lightweight and easy to integrate with WordPress pages or posts via shortcode
 
 
@@ -37,8 +41,11 @@ Customize a calculator for one menu category and nutrient:
 
 📦 Installation
 1. Download the plugin ZIP or clone the repository.
+   
 2. Upload to your WordPress site via /wp-content/plugins/.
+
 3. Activate the plugin from Plugins > Installed Plugins.
+
 4. Use any of the shortcodes in posts, pages, or custom templates.
 
 
