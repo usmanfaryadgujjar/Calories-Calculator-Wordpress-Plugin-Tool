@@ -40,7 +40,7 @@ Use this shortcode to show a complete calculator with multiple menu items and de
 
 Customize a calculator for one menu category and nutrient:
 
-**[dunkin_calorie_calculator category="Drinks" value="Calories"] **
+**[dunkin_calorie_calculator category="Drinks" value="Calories"]**
 
 **[dunkin_calorie_calculator category="Bakery" value="Sugar"]**
 
