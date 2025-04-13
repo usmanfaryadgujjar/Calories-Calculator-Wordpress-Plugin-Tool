@@ -2,6 +2,7 @@
 A simple and customizable WordPress plugin that allows your visitors to calculate calories and nutritional values for various Dunkin’ Donuts menu items like beverages, donuts, sandwiches, and more.
 
 🔧 Features
+
 ✅ User-friendly interface for calculating nutritional values
 
 ✅ Filter by menu category (e.g., Drinks, Bakery, etc.)
@@ -51,7 +52,11 @@ Customize a calculator for one menu category and nutrient:
 
 
 🛠️ Customization
+
 Easily extendable to support more categories or nutrients
+
 Lightweight & fully responsive
+
 Compatible with all modern WordPress themes
+
 
