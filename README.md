@@ -1,6 +1,6 @@
-**🍩 Dunkin’ Nutrition Calculator – WordPress Plugin**
+**🍩 Nutrition Calculator – WordPress Plugin**
 
-Customizable WordPress plugin that allows your visitors to calculate calories and nutritional values for various Dunkin’ Donuts menu items like beverages, donuts, sandwiches, and more.
+Customizable WordPress plugin that allows your visitors to calculate calories and nutritional values for various Donuts menu items like beverages, donuts, sandwiches, and more.
 
 **🔧 Features**
 
@@ -34,7 +34,8 @@ Perfect for embedding focused tools on blog posts or landing pages.
 
 Use this shortcode to show a complete calculator with multiple menu items and detailed nutrition data:
 
-[dunkin_nutrition_calculator]
+**[dunkin_nutrition_calculator]**
+
 
 **➤ Category + Single Nutrient Calculators**
 
@@ -45,6 +46,7 @@ Customize a calculator for one menu category and nutrient:
 **[dunkin_calorie_calculator category="Bakery" value="Sugar"]**
 
 **[dunkin_calorie_calculator category="Sandwiches" value="Protein"]**
+
 
 **📦 Installation**
 
